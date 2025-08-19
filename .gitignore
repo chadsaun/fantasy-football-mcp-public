@@ -90,3 +90,5 @@ tests_and_validation/data/*.json
 tests_and_validation/data/*.png
 tests_and_validation/data/*.csv
 tests_and_validation/data/*.html
+# Auto-activation files
+.envrc
