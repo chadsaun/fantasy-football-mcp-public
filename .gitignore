@@ -92,3 +92,11 @@ tests_and_validation/data/*.csv
 tests_and_validation/data/*.html
 # Auto-activation files
 .envrc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Claude Code files
+CLAUDE.md
